@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゲットー・ライフ",
+  "base_artist": "Rick James",
+  "createdAt": "2026-02-23T01:50:15.152551Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghetto Life",
+      "artist": "Rick James",
+      "has_synced": false,
+      "path": "select/pl_01_Ghetto_Life_Rick_James.txt"
+    }
+  ]
+}
